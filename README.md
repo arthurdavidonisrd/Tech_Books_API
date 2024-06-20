@@ -42,8 +42,8 @@ git clone https://github.com/arthurdavidonisrd/Tech_Books_API.git
 
 <p>Searching for some book:</p>
 <br>
- <img src="./imagens/search.jpeg" width="700px">
--npx tailwindcss init
+<img src="./imagens/busca.jpeg" width="700px">
+
 
 
 
