@@ -5,7 +5,7 @@
 
 <p align="center" display="flex">
     <img src="./imagens/home.jpeg" width="700px">
-    <img src="./imagens/home.jpeg" width="700px">
+    <img src="./imagens/about.jpeg" width="700px">
 
 </p>
 
