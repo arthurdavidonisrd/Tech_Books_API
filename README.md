@@ -38,16 +38,14 @@ git clone https://github.com/arthurdavidonisrd/Tech_Books_API.git
 <p>Run your apache and access "localhost/"name_of_your_paste"</p>
 
 
+<h4>Project Result</h4>
 
-<h4>Install TailwindCSS</h4>
-
--npm install -D tailwindcss
+<p>Searching for some book:</p>
 <br>
+ <img src="./imagens/search.jpeg" width="700px">
 -npx tailwindcss init
 
-<h4>Initialize Tailwind</h4>
 
--Type in your cmd in the project directory: npm run dev
 
 <h2>Project Purpose</h2>
 <p>learn about API consumption in the PHP language, in this case using a free API from the "Google developers" platform.</p>
