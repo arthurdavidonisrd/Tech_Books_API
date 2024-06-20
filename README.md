@@ -26,14 +26,18 @@
 
 <h4>Prerequisites</h4>
 
-- Node(any version)
-- TailwindCSS
+- Wamp installed in your machine OR
+- XAMP
 
 <h4>Install project</h4>
 
-git clone https://github.com/arthurdavidonisrd/hamburgueria.git
+git clone https://github.com/arthurdavidonisrd/Tech_Books_API.git
 <br>
-npm install
+<p>after clone the project paste, place it in the "htdocs" paste inside your XAMP or WAMP.</p>
+<br>
+<p>Run your apache and access "localhost/"name_of_your_paste"</p>
+
+
 
 <h4>Install TailwindCSS</h4>
 
@@ -46,7 +50,6 @@ npm install
 -Type in your cmd in the project directory: npm run dev
 
 <h2>Project Purpose</h2>
-<p>Practice and apply web development fundamentals. Create a web system applicable to the real world, 100% responsive and interactive with the user.</p>
+<p>learn about API consumption in the PHP language, in this case using a free API from the "Google developers" platform.</p>
 
-<h2>Check out the hosted project📲 </h2>
-<a href="https://hamburgueria-tau-five.vercel.app/" target="_blank">Access project here✅</a>
+
