@@ -40,9 +40,13 @@ git clone https://github.com/arthurdavidonisrd/Tech_Books_API.git
 
 <h4>Project Result</h4>
 
-<p>Searching for some book:</p>
-<br>
+<h2>Searching for some book:</h2>
 <img src="./imagens/procura.jpeg" width="700px">
+
+<h2>result of the API being consumed:</h2>
+<img src="./imagens/result.jpeg" width="700px">
+
+
 
 
 
